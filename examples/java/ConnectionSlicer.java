@@ -3,16 +3,18 @@
 *    
 *    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
 *    
-*    Project: https://spring.io/projects/spring-boot
-*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v3.1.0
+*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v3.1.1
 *    Source File: Connection.java
 *    
 *    Copyrights:
 *      copyright 2012-2021 the original author or authors
 *    
 *    Licenses:
-*      Apache License 2.0
-*      SPDXId: Apache-2.0
+*      Facebook License Agreement for Nuclide Software
+*      SPDXId: N/A
+*    
+*      Eclipse Public License 1.0
+*      SPDXId: EPL-1.0
 *    
 *    Auto-attribution by Threatrix, Inc.
 *    
